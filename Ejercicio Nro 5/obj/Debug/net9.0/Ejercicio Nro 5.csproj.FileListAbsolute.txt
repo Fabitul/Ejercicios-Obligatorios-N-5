@@ -1,0 +1,14 @@
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\bin\Debug\net9.0\Ejercicio Nro 5.exe
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\bin\Debug\net9.0\Ejercicio Nro 5.deps.json
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\bin\Debug\net9.0\Ejercicio Nro 5.runtimeconfig.json
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\bin\Debug\net9.0\Ejercicio Nro 5.dll
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\bin\Debug\net9.0\Ejercicio Nro 5.pdb
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\Ejercicio Nro 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\Ejercicio Nro 5.AssemblyInfoInputs.cache
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\Ejercicio Nro 5.AssemblyInfo.cs
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\Ejercicio Nro 5.csproj.CoreCompileInputs.cache
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\Ejercicio Nro 5.dll
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\refint\Ejercicio Nro 5.dll
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\Ejercicio Nro 5.pdb
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\Ejercicio Nro 5.genruntimeconfig.cache
+C:\Users\fabit\Desktop\TP Obligatorios DOO\Ejercicio Nro 5\obj\Debug\net9.0\ref\Ejercicio Nro 5.dll
